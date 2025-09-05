@@ -1,2 +1,2 @@
 # PewPewPatrol
-Et Shoot'm spill
+A 2D Shoot'm game
